@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_store">
+        <item>@string/UNKNOWN_STORE</item>
+        <item>@string/an</item>
+        <item>@string/flikart</item>
+        <item>@string/eb</item>
+        <item>@string/sd</item>
+    </string-array>
+</resources>

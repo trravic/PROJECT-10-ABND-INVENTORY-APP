@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">INVENTORY APP</string>
+
+    <!--the name which was displayed at the top-->
+    <string name="info">PRODUCTS</string>
+
+    <!--this name will be displayed when user enters into editoractivity-->
+    <string name="editor">ADD PRODUCT</string>
+
+    <!--menu for the user-->
+    <string name="insert_dummy_data">INSERT FAKE PRODUCT</string>
+
+    <string name="delete_all">DELETE ALL DATA</string>
+
+    <!--editor menu for the user and icon names-->
+    <string name="save">SAVE</string>
+
+    <string name="del">DELETE</string>
+
+    <!--sell the product to the customer-->
+    <string name="sell">SELL</string>
+
+    <!--TOAST MSG FOR INVALID ENTRY-->
+    <string name="invalid">INVALID ENTRY!!!PLZ FILL ALL THE ABOVE DETAILS</string>
+
+    <!-- title for the product which is present in main ativity -->
+    <string name="title">THE PLACE SEEMS TO BE EMPTY</string>
+
+    <!--subtitle which says some hint to add the product-->
+    <string name="subtitle">pull your cart to grab your things</string>
+
+    <!--to enter the product name in the editor activitry-->
+    <string name="product">PRODUCT NAME:</string>
+
+    <!--to specify the image of the product by the user-->
+    <string name="image">SPOT THE IMAGE:</string>
+
+    <!--to specify the user to order a product-->
+    <string name="order">Order</string>
+
+    <string name="order_btn">ORDER!!!</string>
+
+    <!--to hint to the user about the product name-->
+    <string name="product_hint">enter the product</string>
+
+    <!--to hint the user the reqd fields are mandatory-->
+    <string name="mandatory">these printed marks are mandatory to save the product</string>
+
+    <!--user may pick up the quantity-->
+    <string name="quantity">specify the quantity</string>
+
+    <string name="quantity_hint">enter the quantity</string>
+
+    <string name="quantity_id">QUANTITY:</string>
+
+    <string name="price_id">price per product:</string>
+
+    <!--user may specify the store by spinner-->
+    <string name="store">CHOOSE YOUR STORE</string>
+
+    <!--insisting the user to enter the correct store-->
+    <string name="UNKNOWN_STORE">UNKNOWN STORE</string>
+
+    <string name="flikart">FLIPKART</string>
+
+    <string name="sd">SNAPDEAL</string>
+
+    <string name="an">AMAZON</string>
+
+    <string name="eb">E-BAY</string>
+
+    <!--user may specify the price for the product-->
+    <string name="price">price</string>
+
+    <!--to hint to the user for price-->
+    <string name="product_price">enter the amount</string>
+
+    <!--to specify the name of the seller by user-->
+    <string name="seller">SELLER NAME:</string>
+
+    <!--to hint the seller name in edit text-->
+    <string name="seller_hint">enter the seller\'s name</string>
+
+    <!--TO spot the image from user's gallery-->
+    <string name="pick_image">choose img</string>
+
+    <!--takes the user into  add a product window-->
+    <string name="add_product">ADD PRODUCT</string>
+
+    <!--takes the user into edit product windw-->
+    <string name="edit_product">EDIT PRODUCT</string>
+
+    <!--aler msg for unsaved changes-->
+    <string name="unsaved_msg">exit without saving?</string>
+
+    <string name="pos_save_msg">EDIT AND THEN SAVE</string>
+
+    <string name="neg_exit_msg">EXIT</string>
+
+    <!--toast msg in deleting the pet with error-->
+    <string name="editor_del_ok">PRODUCT DELETED</string>
+
+    <!--TOAST MSG DELETE UNSUCCESS-->
+    <string name="editor_del_fail">error in deleting the pet</string>
+
+    <!--toast msg for confirm dialog-->
+    <string name="del_confirm">do you want to delete the product?</string>
+
+    <!--toast msg for option(button) to delete-->
+    <string name="del_OK">DELETE,OK!!</string>
+
+    <!--toast msg for option to cancell button-->
+    <string name="cancel">Cancel</string>
+
+    <!--toast msg for inserting products-->
+    <string name="editor_insert_success">PRODUCT SAVED!!!</string>
+
+    <!--toast msg for error while insertion-->
+    <string name="editor_insert_failed">INSERTION FAILED</string>
+
+    <!--TOAST MSG FOR UPDATE SUcess-->
+    <string name="update_success">PRODUCT UPDATED SUCCESSFULLY</string>
+
+    <!-- ERROR IN UPDATING THE PRODUCT-->
+    <string name="update_failed">PRODUCT ISNT UPDATED.ERROR!!!</string>
+
+    <!--toast msg for quantity-->
+    <string name="quantity_limit">YOU CANT ORDER LESS THAN 0 QUANTITY.PLZ CHECK!!!</string>
+
+    <!--UNKNOWN QUANTITY-->
+    <string name="unknown_quantity">ENTER THE CORRECT AMOUNT OF QUANTITY</string>
+</resources>
+
